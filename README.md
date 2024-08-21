@@ -1,14 +1,8 @@
 <div id="title" align=left
-
-<a href="https://github.com/Cangshanqingshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi&layout=compact&theme=tokyonight" alt="Top Langs" />
-</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/Cangshanqingshi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
 </div>
 
 - 👋 Hi, I’m @Cangshanqingshi
