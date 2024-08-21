@@ -2,13 +2,20 @@
 <table>
   <tr>
     <td>
+      
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi)](https://github.com/anuraghazra/github-readme-stats)
+      
     </td>
+    
+    <td>
+    
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi)](https://github.com/anuraghazra/github-readme-stats)
+    
+    </td>
+ 
   </tr>
 </table>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi)](https://github.com/anuraghazra/github-readme-stats)
