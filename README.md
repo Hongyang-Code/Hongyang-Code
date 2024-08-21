@@ -1,24 +1,9 @@
-<div id="title" align=left>
-<table style="border-collapse: collapse; border: none;">
-    <tr style="vertical-align: top;">
-      <td style="border: none; padding: 0;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
-        </a>
-      </td>
-      <td style="border: none; padding: 0;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi" alt="Top Langs">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div id="title" align=left
 
-<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cangshanqingshi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cangshanqingshi)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 </div>
 
 - 👋 Hi, I’m @Cangshanqingshi
