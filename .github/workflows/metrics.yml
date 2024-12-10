@@ -4,8 +4,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
+    # Triggers on the 1st day of January, April, July, and October at midnight UTC
+    - cron: "0 0 1 1,4,7,10 *"
   workflow_dispatch:
   
 jobs:
