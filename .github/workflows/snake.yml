@@ -2,7 +2,8 @@ name: Snake Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Triggers on the 1st day of January, April, July, and October at midnight UTC
+    - cron: "0 0 1 1,4,7,10 *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
