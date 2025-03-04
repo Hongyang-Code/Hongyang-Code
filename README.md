@@ -23,7 +23,7 @@
 
 <div align="center">
   📫 How to reach me: 
-  <a href="mailto:347604242@qq.com" style="color:#58a6ff;text-decoration:none;">
+  <a href="347604242@qq.com" style="color:#58a6ff;text-decoration:none;">
     347604242@qq.com
   </a>
 </div>
