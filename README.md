@@ -23,8 +23,8 @@
 
 <div align="center">
   📫 How to reach me: 
-  <a href="mailto:your.email@example.com" style="color:#58a6ff;text-decoration:none;">
-    your.email@example.com
+  <a href="mailto:347604242@qq.com" style="color:#58a6ff;text-decoration:none;">
+    347604242@qq.com
   </a>
 </div>
 
