@@ -2,7 +2,6 @@
   <img width="200%" src="./assets/images/hr.gif" />
   <img src="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/github-metrics/base.svg" /><br>
   
-  <img width="200%" src="./assets/images/hr.gif" />
   <a href="https://github.com/Hongyang-Code" align=center>
     <img height="180em" align=center src="https://github-readme-stats.vercel.app/api?username=Hongyang-Code&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
     <img height="180em" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongyang-Code&layout=compact&theme=tokyonight" alt="Top Langs" />
