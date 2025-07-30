@@ -14,19 +14,22 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hongyang-Codei&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>]-->
 
+<img width="200%" src="./assets/images/hr.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/profile-snake-contrib/github-contribution-grid-snake.svg" />
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Hongyang-Code/Hongyang-Code/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  </picture>
-
+<img width="200%" src="./assets/images/hr.gif" />
 <div align="center">
   📫 How to reach me: 
   <a href="347604242@qq.com" style="color:#58a6ff;text-decoration:none;">
     347604242@qq.com
   </a>
 </div>
+
+<img width="200%" src="./assets/images/hr.gif" />
 
 </div>
 
