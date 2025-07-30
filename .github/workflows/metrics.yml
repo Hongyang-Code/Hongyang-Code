@@ -20,7 +20,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: Cangshanqingshi
+          user: Hongyang-Code
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
